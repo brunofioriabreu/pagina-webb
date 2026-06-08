@@ -1,0 +1,10 @@
+.container-colunas {
+
+
+display:flex;
+gap: 20px;
+padding:20px;
+}
+.colunas{
+    flex: 1;
+}
